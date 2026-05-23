@@ -1,0 +1,17 @@
+{
+  "name": "حافظ — متابع الحفظ والمراجعة",
+  "short_name": "حافظ",
+  "description": "تطبيق متابعة حفظ القرآن الكريم والمراجعة اليومية",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f8f8",
+  "theme_color": "#0d4a4a",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
